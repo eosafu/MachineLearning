@@ -1,3 +1,6 @@
 Coursera DeepLearning.AI: https://github.com/abdur75648/Deep-Learning-Specialization-Coursera
 Computing AR(1) precision matrix with Gaussian errors: https://haakonbakkagit.github.io/btopic120.html
 Simple way to Generate random walk precision matrix with Gaussian error using R-INLA: INLA:::inla.rw1(n = 5)
+Model Diagnostic measures possible from the INLA packge https://onlinelibrary.wiley.com/doi/10.1111/biom.12227
+Review on multiscale spatial modeling https://www.tandfonline.com/doi/abs/10.1198/016214502760047140
+Spatial misalignment BANERJEE, S.; CARLIN, B. P.; GELFAND, A. E. Hierarchical modeling and analysis for spatial data. [S.l.]: CRC press, 2014. 
