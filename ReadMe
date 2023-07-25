@@ -5,3 +5,4 @@ Model Diagnostic measures possible from the INLA packge https://onlinelibrary.wi
 Review on multiscale spatial modeling https://www.tandfonline.com/doi/abs/10.1198/016214502760047140
 Spatial misalignment BANERJEE, S.; CARLIN, B. P.; GELFAND, A. E. Hierarchical modeling and analysis for spatial data. [S.l.]: CRC press, 2014. 
 Generating discrete analogues of continuous probability distributions-A survey of methods and constructions https://jsdajournal.springeropen.com/articles/10.1186/s40488-015-0028-6
+Dirichlet process R package for possible implementation of own model https://cran.r-project.org/web/packages/dirichletprocess/vignettes/dirichletprocess.pdf.
